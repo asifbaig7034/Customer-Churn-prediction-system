@@ -3,7 +3,10 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-xgboost
 streamlit
 joblib
 plotly
+fastapi
+uvicorn
+python-multipart
+requests

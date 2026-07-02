@@ -1,0 +1,52 @@
+# Customer Churn Prediction System
+
+## Project Overview
+
+Customer churn is a major business problem for subscription-based companies.  
+This project predicts whether a telecom customer is likely to leave the company using customer demographic, account, and service-related data.
+
+The project includes:
+
+- Data cleaning
+- Exploratory data analysis
+- Feature engineering
+- Machine learning model training
+- Model evaluation
+- Threshold tuning
+- Streamlit web app
+- FastAPI backend API
+- Single and batch churn prediction
+
+---
+
+## Problem Statement
+
+Telecom companies lose revenue when customers cancel their services.  
+The goal of this project is to build a machine learning system that can identify customers who are likely to churn, so the company can take early retention actions such as discounts, support calls, loyalty offers, or contract upgrades.
+
+---
+
+## Dataset
+
+The project uses the **Telco Customer Churn Dataset**.
+
+The dataset contains customer information such as:
+
+- Gender
+- Senior citizen status
+- Partner and dependents
+- Tenure
+- Phone service
+- Internet service
+- Online security
+- Tech support
+- Contract type
+- Payment method
+- Monthly charges
+- Total charges
+- Churn status
+
+Target variable:
+
+```text
+Churn
